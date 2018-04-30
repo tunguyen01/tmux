@@ -28,7 +28,7 @@ sudo apt-get install tmux
 
 Để sử dụng ```tmux``` đơn giản chỉ cần bật Terminal và gõ ```tmux```. Sau khi đã khởi động tmux bạn sẽ nhận ra bên dưới Terminal sẽ xuất hiện một dòng trạng thái màu xanh lá cây bên dưới. Nó hiển thị thông tin thời gian, tên host, [0] là tên ```tmux session```, 0:bash* là tên cửa sổ hiện tại.
 
-<image src="https://imgur.com/abOYpRv"></image>
+<image src="https://i.imgur.com/abOYpRv.png"></image>
 
 <a name="p4"></a>
 ## Liên quan đến tạo session và attach
