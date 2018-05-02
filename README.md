@@ -1,12 +1,12 @@
 # TMUX
- [Tmux là gì?](#p1)
- [Cài đặt tmux](#p2)
- [Bắt đầu sử dụng](#p3)
- [Liên quan đến tạo session và attach](#p4)
- [Các hành động bên trong tmux](#p5)
- [Tái truy cập session](#p6)
- [Tùy biến tmax](#p7)
- [Một số tiện ích khác](#p8)
+### [Tmux là gì?](#p1)
+### [Cài đặt tmux](#p2)
+### [Bắt đầu sử dụng](#p3)
+### [Liên quan đến tạo session và attach](#p4)
+### [Các hành động bên trong tmux](#p5)
+### [Tái truy cập session](#p6)
+### [Tùy biến tmax](#p7)
+### [Một số tiện ích khác](#p8)
 
 <a name="p1"></a>
 ## Tmux là gì?
