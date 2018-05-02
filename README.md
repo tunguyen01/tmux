@@ -17,12 +17,16 @@ Tmux - Một phần mềm nho nhỏ nhưng cực kỳ hữu ích. Lợi ích l�
 ## Cài đặt tmux như thế nào?
 
 Để cài đặt Tmux đơn giản chỉ cần gõ lệnh cài đặt bình thường như đối với các gói phần mềm bình thường khác
-
+Trên ubuntu:
 ```
 sudo apt-get update
 sudo apt-get install tmux
 ```
-
+Trên centos:
+```
+yum install epel-release
+yum install tmux
+```
 <a name="p3"></a>
 ## Bắt đầu sử dụng
 
